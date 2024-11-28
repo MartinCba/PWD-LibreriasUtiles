@@ -1,0 +1,1 @@
+<script>location.href = "./app/views/paginas/home.php"</script>
